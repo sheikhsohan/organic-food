@@ -1,0 +1,23 @@
+@import url('./sections/navbar.css');
+@import url('./sections/header.css');
+@import url('./sections/product.css');
+@import url('./sections/countdown.css');
+@import url('./sections/services.css');
+@import url('./sections/footer.css');
+
+a {
+	text-decoration: none;
+	color: black;
+}
+li {
+	list-style: none;
+}
+
+/* header{
+	background-image: url(../imager/5576726.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	opacity: 20;
+} */

@@ -1,0 +1,53 @@
+{
+	"products": [
+	  {
+		"imageSrc": "imager/box-img/top-view-delicious-noodles-concept.jpg",
+		"productName": "Delicious Noodles",
+		"price": "$9.99"
+	  },
+	  {
+		"imageSrc": "imager/box-img/pancakes-with-strawberries-chocolate-decorated-with-mint-leaf.jpg",
+		"productName": "Pancakes with Strawberries",
+		"price": "$6.99"
+	  },
+	  {
+		"imageSrc": "imager/box-img/big-sandwich-hamburger-with-juicy-beef-burger-cheese-tomato-red-onion-french-fries.jpg",
+		"productName": "Big Sandwich Hamburger",
+		"price": "$12.99"
+	  },
+	  {
+		"imageSrc": "imager/box-img/flat-lay-delicious-chocolate-cake-stand.jpg",
+		"productName": "Delicious Chocolate Cake",
+		"price": "$8.99"
+	  },
+	  {
+		"imageSrc": "imager/box-img/spring-rolls-are-eaten-chinese-new-year-s-day-spring-rolls-are-chinese-snack.jpg",
+		"productName": "Spring Rolls",
+		"price": "$4.99"
+	  },
+	  {
+		"imageSrc": "imager/box-img/glass-orange-juice-placed-wood.jpg",
+		"productName": "Glass of Orange Juice",
+		"price": "$2.99"
+	  },
+	  {
+		"imageSrc": "imager/box-img/closeup-shot-open-juicy-pulled-meat-burger-surrounded-by-greens-blue-plate.jpg",
+		"productName": "Juicy Pulled Meat Burger",
+		"price": "$7.99"
+	  },
+	  {
+		"imageSrc": "imager/box-img/slice-chocolate-brownie-with-walnut-vanilla-ice-cream.jpg",
+		"productName": "Chocolate Brownie with Walnut",
+		"price": "$5.99"
+	  }
+	],
+	"welcomeSection": {
+	  "imageSrc": "imager/front-view-fresh-black-grapes-with-orange-light-background-mellow-photo-ripe-fruit-vitamine-tree.jpg",
+	  "titleTop": "Welcome",
+	  "mainTitle": "THE Organic Foods",
+	  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+	  "cardHolderName": "John Wright",
+	  "cardHolderDescription": "Owner of the Restaurant"
+	}
+  }
+  
